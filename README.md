@@ -3,7 +3,7 @@
 - Personal Portpoflio Website
 - link: [https://www.spero61.me](https://www.spero61.me/)
 
-[Next.js Blog]([spero61/next-blog: simple blog using next.js (github.com)](https://github.com/spero61/next-blog))
+[Next.js Blog](https://github.com/spero61/next-blog)
 - <img alt="React" src="https://img.shields.io/badge/-React-345678?style=flat-square&logo=react&logoColor=61DAFB" /> <img alt="TailwindCSS" src="https://img.shields.io/badge/-TailwindCSS-345678?style=flat-square&logo=tailwindcss&logoColor=38BDF8" /> <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-345678?style=flat-square&logo=firebase&logoColor=FFA713" /> 
 - Practice SSR, ISR features of Next.js
 - Client-Side Pagination
